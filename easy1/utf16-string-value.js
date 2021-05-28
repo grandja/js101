@@ -9,7 +9,6 @@ function utf16Value (string) {
   return sum;
 }
 
-
 // Tests
 console.log(utf16Value('Four score'));         // 984
 console.log(utf16Value('Launch School'));      // 1251
